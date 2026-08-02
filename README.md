@@ -60,4 +60,4 @@ Evaluated against an unseen test set of 1,599 images, the 3D tabular approach si
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/pnwrnaman/YogaPoseDetectionSystem.git](github.com/pnwrnaman/YogaPoseDetectionSystem.git)
+   git clone [https://github.com/pnwrnaman/YogaPoseDetectionSystem.git](https://github.com/pnwrnaman/YogaPoseDetectionSystem.git)
